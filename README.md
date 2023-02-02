@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@imkishor_36" target="blank"><img src="https://img.shields.io/twitter/follow/@imkishor_36?logo=twitter&style=for-the-badge" alt="@imkishor_36" /></a> </p>
 
-- 🔭 I’m currently working on [Aps-fault-detection](https://github.com/Kishordevaragudi/Aps-fault-detection)
+- 🔭 I’m currently working on Medical_insurance Project
 
 - 🌱 I’m currently learning **Data Science in iNeuron**
 
